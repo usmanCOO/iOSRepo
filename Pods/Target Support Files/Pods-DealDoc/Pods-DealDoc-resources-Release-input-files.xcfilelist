@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-DealDoc/Pods-DealDoc-resources.sh
+${PODS_ROOT}/DropDown/DropDown/resources/DropDownCell.xib
+${PODS_CONFIGURATION_BUILD_DIR}/Stripe/Stripe.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Stripe/Stripe3DS2.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StripeCore/StripeCore.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StripeUICore/StripeUICore.bundle

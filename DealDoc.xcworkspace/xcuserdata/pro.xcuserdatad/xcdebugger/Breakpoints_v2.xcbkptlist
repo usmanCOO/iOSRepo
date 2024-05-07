@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AF3D214E-0E77-4E4F-836E-A9CC479C2D7C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E50D361-FCA3-48B8-B1D8-4FEE522648C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/ShareDealVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "saveSharedDeal(dealID:email:message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E50D361-FCA3-48B8-B1D8-4FEE522648C2 - 9a4cf3979dcf4f2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DealDoc.ShareDealVC.saveSharedDeal(dealID: Swift.Optional&lt;Swift.Int&gt;, email: Swift.String, message: Swift.String) -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/ShareDealVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "281">
+               </Location>
+               <Location
+                  uuid = "3E50D361-FCA3-48B8-B1D8-4FEE522648C2 - 9a4cf3979dcf4f2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DealDoc.ShareDealVC.saveSharedDeal(dealID: Swift.Optional&lt;Swift.Int&gt;, email: Swift.String, message: Swift.String) -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/ShareDealVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "490">
+               </Location>
+               <Location
+                  uuid = "3E50D361-FCA3-48B8-B1D8-4FEE522648C2 - 9a4cf3979dcf4f2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DealDoc.ShareDealVC.saveSharedDeal(dealID: Swift.Optional&lt;Swift.Int&gt;, email: Swift.String, message: Swift.String) -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/ShareDealVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "711">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0227792-7EE6-48A9-9A7F-E480C67B4D5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/ShareDealVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "saveSharedDeal(dealID:email:message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73A1D66B-196E-4EEC-9439-9825A796D298"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/ShareDealVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "saveSharedDeal(dealID:email:message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73A1D66B-196E-4EEC-9439-9825A796D298 - 9a4cf3979dcf4ddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DealDoc.ShareDealVC.saveSharedDeal(dealID: Swift.Optional&lt;Swift.Int&gt;, email: Swift.String, message: Swift.String) -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/ShareDealVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1603">
+               </Location>
+               <Location
+                  uuid = "73A1D66B-196E-4EEC-9439-9825A796D298 - 285c4edcd5f7f528"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Foundation.Data&gt;) -&gt; () in DealDoc.ShareDealVC.saveSharedDeal(dealID: Swift.Optional&lt;Swift.Int&gt;, email: Swift.String, message: Swift.String) -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/ShareDealVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "439">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2777599F-A0AF-4762-9F6F-8859DBA442C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/ShareDealVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "saveSharedDeal(dealID:email:message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E30E59E-8AD3-41DA-941C-239688B82F7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/ShareDealVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "saveSharedDeal(dealID:email:message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "324AD3E1-F860-426C-AE3B-E9C0B81003DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "addComment(replied_to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25301BF7-9CB6-4BAE-8ADA-44B048F16BF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "addComment(replied_to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CDEDCF9-C988-405D-B34B-FC6D6CF60E90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "addComment(replied_to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BD0F8EB-194A-4CB0-A746-C746C7E5570C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "addComment(replied_to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84DD24E3-2007-495A-BCFE-D6EC37D4513A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getSharedDealComments()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84DD24E3-2007-495A-BCFE-D6EC37D4513A - f85d645e2be75346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DealDoc.CommentsVC.getSharedDealComments() -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/CommentsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "84DD24E3-2007-495A-BCFE-D6EC37D4513A - f85d645e2be75346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DealDoc.CommentsVC.getSharedDealComments() -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/CommentsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "373">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77863F33-7FD0-4302-9A91-3086C3F52A8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getSharedDealComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A55C8016-2FDF-4474-939C-177D08910970"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getSharedDealComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D4164C3-A092-4DD4-B59D-0911A448DE4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "getSharedDealComments()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D4164C3-A092-4DD4-B59D-0911A448DE4B - b15d3c023a46b148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in DealDoc.CommentsVC.getSharedDealComments() -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/CommentsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2291">
+               </Location>
+               <Location
+                  uuid = "1D4164C3-A092-4DD4-B59D-0911A448DE4B - b15d3c023a46b148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in DealDoc.CommentsVC.getSharedDealComments() -&gt; ()"
+                  moduleName = "DealDoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pro/Desktop/Codistan-Projects/dealdoc/DealDoc/Controllers/CommentsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E244D443-08CD-4313-9324-8F608B8C2D03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getSharedDealComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8675AB09-65A9-48EE-8046-30EFECC8C771"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "didTapAddReplyButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DC7CD6D-3709-4104-97D5-068BB367B28A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DealDoc/Controllers/CommentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "didTapAddReplyButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,6 @@
+module Pods_DealDoc {
+  umbrella header "Pods-DealDoc-umbrella.h"
+
+  export *
+  module * { export * }
+}

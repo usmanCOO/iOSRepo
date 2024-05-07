@@ -1,0 +1,93 @@
+{
+  "identifier" : "DC1E9D8C",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "6445486800",
+      "localizations" : [
+        {
+          "description" : "This Subscription For Monthly.",
+          "displayName" : "DealDocMonthlyPay",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.medpicc.dealDoc.monthly",
+      "referenceName" : "DealDocMonthlyPay",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1645380212",
+    "_developerTeamID" : "B62DV54ZJM",
+    "_lastSynchronizedDate" : 714401617.096012
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21196960",
+      "localizations" : [
+
+      ],
+      "name" : "DealDocMonthlyPayGroup1",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "6.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6445627416",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "App to fill your blind spots in business deal",
+              "displayName" : "DealDoc",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.medpicc.dealDoc.monthlyprice1",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "DealDocMonthlyPrice1",
+          "subscriptionGroupID" : "21196960",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6456844056",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "For testing purpose",
+              "displayName" : "TestPlan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "1Day",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "OneDayPlan",
+          "subscriptionGroupID" : "21196960",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
